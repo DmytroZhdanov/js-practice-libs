@@ -6,4 +6,4 @@ This task list describes setting up SimpleLightbox, managing the Vimeo player's 
 
 - For Task 2, regarding the video player, initialize the Vimeo player using npm, manage the playback time locally utilizing the Vimeo player's API, and ensure playback continues from the last saved position even after a page reload.
 
-- Task 3 involves managing a feedback form, storing input values locally when the user types something, and clearing the storage and form fields upon submission. Implement lodash.throttle to limit storage updates to once every 500 milliseconds."
+- Task 3 involves managing a feedback form, storing input values locally when the user types something, and clearing the storage and form fields upon submission. Implement lodash.throttle to limit storage updates to once every 500 milliseconds.
